@@ -1,6 +1,6 @@
 # WDM-Ex.NO-7-Information-Retrieval-Using-Vector-Space-Model
 Information Retrieval Using Vector Space Model in Python
-### DATE: 03/11/2026
+### DATE: 12/11/2026
 ### Name: SOWMIYA G
 ### Reg no: 2305002023
 
